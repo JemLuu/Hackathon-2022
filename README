@@ -1,1 +1,2 @@
-Testing
+Program uses face tracker to count blinks and will remind you to blink when your blinks per minute goes under a certain threshold
+Created By: Jeremy Luu, Jon Coulter, and Kameren Jouhal
