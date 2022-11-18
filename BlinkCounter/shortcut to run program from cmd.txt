@@ -1,0 +1,3 @@
+cd C:\Users\jc803\OneDrive\Desktop\BlinkCounter
+
+c:/Users/jc803/OneDrive/Desktop/BlinkCounter/eyetracker/Scripts/python.exe c:/Users/jc803/OneDrive/Desktop/cvzone/main.py
