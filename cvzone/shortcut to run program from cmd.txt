@@ -1,3 +1,0 @@
-cd C:\Users\jc803\OneDrive\Desktop\cvzone
-
-c:/Users/jc803/OneDrive/Desktop/cvzone/eyetracker/Scripts/python.exe c:/Users/jc803/OneDrive/Desktop/cvzone/main.py
